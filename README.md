@@ -7,7 +7,7 @@ In this project, _Python_ is used to explore data related to bike share systems 
 - According to the input the code will import the data and will provide information by computing descriptive statistics.
 
 ## **Files used:**
-* bikeshare_2.py
+* bikeshare.py
 
 ## **Credits:**
 * Juan Delgado(Udacity mentor)
